@@ -2,6 +2,8 @@
 simple yelp clone
 Copyright 2020 Anesu, Mapuranga 
 
+A sample yelp UI can be found here: https://youtu.be/l3EByG6HQ9Q
+
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
 You may obtain a copy of the License at
